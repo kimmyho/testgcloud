@@ -1,4 +1,4 @@
 <?php
-echo 'kimtest!!!!!!';
+echo 'kimtest! check if its auto trigger!!!!!';
 
 ?>
