@@ -1,1 +1,4 @@
-helloworld
+<?php
+echo 'kimtest';
+
+?>
